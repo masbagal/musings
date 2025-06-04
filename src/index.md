@@ -5,7 +5,7 @@ date: 2025-06-04
 ---
 
 <ul class='post'>
-{%- for post in collections.posts | reverse -%}
+{%- for post in collections.posts -%}
   <li>
     <a href="{{ post.url }}">
       <div>{{ post.date | readableDate }}</div>
