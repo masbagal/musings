@@ -1,0 +1,73 @@
+body {
+  font-family: "Ovo", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  max-width: 660px;
+  margin: 0 max(40px, auto);
+}
+
+a {
+  color: orange;
+}
+
+#site-title a {
+  color: unset;
+  opacity: 0.5;
+}
+
+#site-title a:hover {
+  opacity: 0.9;
+}
+
+#site-title.post {
+  font-size: 20px;
+}
+
+header h1 {
+  margin-bottom: 0;
+}
+
+header p {
+  margin-top: 0;
+}
+
+main {
+  margin-top: 3rem;
+}
+
+main a.home {
+  display: block;
+  margin-top: 4rem;
+}
+
+h1 {
+  text-wrap: balance;
+  margin-top: 0.25rem;
+}
+
+ul.post {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul.post li a {
+  margin: 0.5em auto;
+  display: grid;
+  grid: auto / 120px 1fr;
+  color: unset;
+}
+
+ul.post li a div:first-child {
+  opacity: 0.4;
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+footer a {
+  color: unset;
+}

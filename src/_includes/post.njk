@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="" />
+	<meta name="author" content="" />
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width" />
+	<title>{{ title }}</title>
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Ovo&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css" />
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+<h2 id='site-title' class='post'><a href='/'>Musings</a></h1>
+
+<main>
+<time>{{ page.date.toLocaleString('en', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'}) }}</time>
+  {{ content | safe }}
+
+  <a class='home' href='/'>← Back to home</a>
+</main>
+</body>
+</html>
