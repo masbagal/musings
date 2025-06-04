@@ -26,10 +26,6 @@ a {
   }
 }
 
-@view-transition {
-  navigation: auto;
-}
-
 #site-title a {
   color: unset;
   opacity: 0.5;
