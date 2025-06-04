@@ -1,4 +1,4 @@
-# Musings
+# Fleeting Notes
 
 Random thoughts and observations that made sense to me at the time — no promises they'll age well.
 

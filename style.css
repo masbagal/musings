@@ -60,6 +60,10 @@ ul.post li a {
   color: unset;
 }
 
+ul.post li a:last-child {
+  margin-bottom: 0;
+}
+
 ul.post li a div:first-child {
   opacity: 0.4;
 }

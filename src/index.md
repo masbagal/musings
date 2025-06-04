@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Home
+title: Fleeting Notes
 date: 2025-06-04
 ---
 
