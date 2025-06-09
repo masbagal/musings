@@ -16,7 +16,7 @@ As a child, I was fascinated by constellations and how ancient people could see 
 
 I never dismissed the truth or existence of constellations, but as I grew older, I became increasingly skeptical. As an adult, my mind was occupied solely with life's responsibilities. "Unimportant" things like this had no place in my head.
 
-Last Monday, my day was filled with unclear emotions and dissatisfaction with the life I was living. I felt utterly stifled. That evening, I carried baby daughter outside to get some fresh air. While gazing at the sky, I looked up at the stars and suddenly saw a clear, familiar shape: **four nearby stars that, when connected, formed a cross or kite.**
+Last Monday, my day was filled with unclear emotions. I felt utterly stifled. That evening, I carried my baby daughter outside to get some fresh air. While gazing at the sky, I looked up at the stars and suddenly saw a clear, familiar shape: **four nearby stars that, when connected, formed a cross or kite.**
 
 From my buried memories, I recognized this pattern as the ["Southern Cross"](https://en.wikipedia.org/wiki/Crux), a cross often used to indicate south.
 
