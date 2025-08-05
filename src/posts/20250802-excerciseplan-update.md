@@ -12,7 +12,7 @@ Short report of the result: **It didn't work**.
 
 ## Week 1
 
-For context, I can only do these exercises in the morning when my daughter and wife are still sleeping. Once they wake up, the day gets busy. Doing this in the evening is also difficult because that's when I tag in with my wife to take care of our daughter while she gets some mini rest or tackles her backlog of chores. I could do the workout instead, but she needs that time to give herself a break away from our daughter.
+For context, I can only do these exercises in the morning when my daughter and wife are still sleeping. Once they wake up, the day gets busy. Doing this in the evening is also difficult because that's when I tag in with my wife to take care of our daughter while she gets some mini rest or tackles her backlog of chores. She needs that time to give herself a break away from our daughter (this doesn't mean that she hates our daughter, she just need to rest her mind as well).
 
 The routine starts with 3 minutes of jumping jacks. Oh boy, my calves cramped so hard on the first day. I couldn't manage 3 minutes nonstop. At first I could do 1 minute straight, but then my calves would hurt too much.
 
