@@ -6,7 +6,7 @@ date: 2025-08-02
 
 # Update: AI Exercise Plan
 
-It's the update from a [https://notes.dimitrijagal.com/posts/20250608-excerciseplan/](previously written post).
+It's the update from [previously written post](https://notes.dimitrijagal.com/posts/20250608-excerciseplan/).
 
 Short report of the result: **It didn't work**.
 

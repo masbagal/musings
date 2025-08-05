@@ -26,4 +26,4 @@ It may not work for everybody, but it works for me, so I'm sharing it so you can
 
 ---
 
-More reading: [https://sonnet.io/posts/sit](the developer's article about th
+More reading: [the developer's article about this app](https://sonnet.io/posts/sit)
