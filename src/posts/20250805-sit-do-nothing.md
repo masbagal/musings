@@ -8,7 +8,7 @@ date: 2025-08-05
 
 Modern life is very busy. Even after I moved back to my hometown, it still feels very busy. (I can't imagine if I were still in Jakarta, which has become even more chaotic nowadays.)
 
-Working, taking care of my daughter, trying to learn things for personal or career gain, and fitting into society—it has no end.
+Working, taking care of my daughter, trying to learn things for personal or career gain, and fitting into society. **It has no end**.
 
 Today I found this beautifully simple web app: [https://sit.sonnet.io/](https://sit.sonnet.io/)
 
