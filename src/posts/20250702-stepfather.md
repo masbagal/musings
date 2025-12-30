@@ -18,7 +18,7 @@ From the beginning, I set clear boundaries with my mother's prospective husband.
 
 He accepted this. As time went on, I admitted that he is a kind person and admitting that the unpleasant process that occurred at the beginning wasn't entirely his fault (While he also had a part of it, there was another person that had a bigger role in this big dumpster fire).
 
-Until this day I still call him _"Om"_, which translates to "Uncle".
+To this day I still call him _"Om"_, which translates to "Uncle".
 
 ### The Process of Accepting and Letting Go
 
@@ -35,3 +35,7 @@ Many relatives and friends asked how I was finally able to set aside my emotions
 As of now, I can accept this current situation. That doesn't mean I condone everything that happened back then. There are valuable lessons there that I won't forget, though they don't need to be constantly brought up.
 
 Learning to forgive doesn't mean forgetting, but choosing not to let the past poison the future.
+
+---
+
+Additional reflection on December 2025: Is this a coping mechanism? Maybe. I don't reject that possibility, but again what else can I do? Can't write the detailed backstory but I'm very sure that my overall life is much harder without him taking care of my mom.
