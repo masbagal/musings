@@ -18,7 +18,7 @@ A former employer once told me, during a moment of frustration that as not reall
 
 I watched people with far more resources than me raise children fully delegated, rich resourced, surrounded by the best education or facilities money can access. Those children will probably succeed. They will have opportunities I cannot give my child. Doors will open for them that my child may have to knock on harder. I'm not writing this with bitterness, I write it because I think it's true.
 
-**So what, then, is the point of presence?** This "presence" thing that most people try to form opinion with: 'they are rich, but they are not present for their kids'.
+**So what, then, is the point of presence?** This "presence" thing that most people try to form opinion with: 'they are rich, but they are not present for their kids'. (To be honest, I've thought it too sometimes. Moment of envy?)
 
 The answer I keep coming back to is not about success. It's about what gets internalized before a child even knows they're learning anything. The way they learn to measure their own worth. The things they come to believe, without being told, about what a good life looks like.
 
