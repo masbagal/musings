@@ -1,6 +1,6 @@
 ---
 layout: post.njk
-title: Rediscovering Wonder Beneath the Stars
+title: Choosing This Anyway
 date: 2026-02-21
 ---
 
