@@ -22,9 +22,7 @@ The first time I tried it, I set it to 1 minute. It felt so long and calm. A min
 
 Timing this activity is useful because I'm easily distracted or the opposite of that: forgot to come back to do things. Setting a boxed time helps me to focus doing nothing, knowing it has ends and not endlessly zoning out.
 
-Whenever you have time, please try it (with or without this app). Spend your time doing nothing and just stay still. You will find something that you haven't felt in a long time: **yourself**.
-
-It may not work for everybody, but it works for me, so I'm sharing it so you can try it too and see if it's useful for you.
+Not always, but while doing this I sometimes find something that I haven't felt in a long time: **myself**. Not my work, not what I do to make me feel worthy, just pure me.
 
 ---
 
