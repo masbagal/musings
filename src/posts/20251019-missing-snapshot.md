@@ -16,4 +16,4 @@ In those notes, I wrote down what I felt, what I found, and what I learned. Many
 
 They were snapshots of my life, and I missed taking some snapshots of my precious moments last month.
 
-I should capture them more. Maybe you should too? It's embarrassing or it might be a bad, but that's fine since you don't have to share it with the world.
+I should capture them more.
